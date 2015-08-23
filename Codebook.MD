@@ -1,7 +1,7 @@
 ##Codebook
 
 This dataset includes the mean and standard deviation variables from the UCI HAR study.  
-(For the background on the data, please visit: https://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones  
+For the background on the data, please visit: https://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones  
 Further info on these columns and the data can be found in the following files under the UCI HAR folder:  
 a. README.txt  
 b. features_info.txt  
